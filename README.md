@@ -1,0 +1,2 @@
+# final_Project
+Epilepsy Diet Tracker web app. Provides a means for sufferers of epilepsy to choose and manage a ketogenic diet plan. Users will be able to choose between Atkins, Classic Keto, and MCT oil diets. This special diet is popular among epilepsy patients (especially children), is strongly effective in aiding in seizure control, and commonly results in permanent benefits after cessation of the diet.  
